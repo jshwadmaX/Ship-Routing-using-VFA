@@ -1,0 +1,262 @@
+Route_ID,Location,Latitude,Longitude,Weather Conditions,Tide Information,Fuel Cost,Time,Season
+1,Kandla Port,23.0360,70.22390,"Clear, 28°C",Low Tide,0,10:00 AM,Summer
+1,Off Coast of Gujarat,22.0000,69.00000,"Clear, 29°C",High Tide,6000,12:00 PM,Summer
+1,Arabian Sea,20.0000,66.00000,"Cloudy, 27°C",Low Tide,"10,000",4:00 PM,Summer
+1,Near Coast of Oman,23.6100,58.55000,"Clear, 30°C",High Tide,"15,000",11:00 PM,Summer
+1,Dubai,25.2769,55.29620,"Clear, 30°C",Low Tide,"21,000",7:00 AM,Summer
+2,Chennai Port,13.0820,80.29200,"Clear, 30°C",High Tide,"19,000",10:00 AM,Winter
+2,Kandla Port,23.0360,70.22390,"Sunny, 29°C",High Tide,0,9:00 AM,Winter
+2,Off Coast of Gujarat,22.0000,69.00000,"Cloudy, 28°C",Low Tide,"12,000",11:00 AM,Winter
+2,Arabian Sea,15.0000,66.00000,"Clear, 30°C",High Tide,"15,000",3:00 PM,Winter
+2,Off Coast of Somalia,1.0000,44.00000,"Clear, 29°C",Low Tide,"20,000",9:00 AM,Winter
+2,Mombasa,-4.0435,39.66820,"Partly Cloudy, 28°C",High Tide,"23,000",6:00 PM,Winter
+3,Kandla Port,23.0360,70.22390,"Rain, 27°C",Low Tide,0,8:00 AM,Spring
+3,Off Coast of Goa,15.2993,74.12400,"Sunny, 31°C",High Tide,"14,000",1:00 PM,Spring
+3,Southeast of Sri Lanka,6.9319,81.00990,"Clear, 30°C",Low Tide,"19,000",7:00 PM,Spring
+3,Andaman Sea,10.2833,92.68330,"Overcast, 29°C",High Tide,"25,000",1:00 AM,Spring
+3,Port Klang,3.0000,101.40000,"Cloudy, 28°C",Low Tide,"27,000",9:00 AM,Spring
+4,Kandla Port,23.0360,70.22390,"Clear, 27°C",High Tide,0,7:00 AM,Autumn
+4,Arabian Sea,20.0000,66.00000,"Clear, 29°C",High Tide,"12,000",2:00 PM,Autumn
+4,Gulf of Aden,12.0000,45.00000,"Partly Cloudy, 28°C",Low Tide,"15,000",8:00 AM,Autumn
+4,Suez Canal,30.5852,32.26560,"Rain, 27°C",High Tide,"20,000",10:00 PM,Autumn
+4,Mediterranean Sea,35.0000,24.00000,"Clear, 30°C",Low Tide,"23,000",2:00 PM,Autumn
+4,Rotterdam,51.9225,4.47920,"Clear, 30°C",High Tide,"25,000",6:00 PM,Autumn
+5,Mumbai Port,18.9218,72.83350,"Cloudy, 29°C",Low Tide,0,10:00 AM,Summer
+5,Near Gujarat Coast,22.2587,71.19240,"Clear, 28°C",High Tide,7000,2:00 PM,Summer
+5,"Off Muscat, Oman",23.5880,58.38290,"Clear, 29°C",Low Tide,"11,000",8:00 PM,Summer
+5,Near Dubai,25.2760,55.29630,"Cloudy, 27°C",High Tide,"17,000",2:00 AM,Summer
+5,Dubai Port,25.2711,55.30750,"Clear, 30°C",Low Tide,"24,000",8:00 AM,Summer
+6,Mumbai Port,18.9218,72.83350,"Clear, 30°C",High Tide,0,9:00 AM,Monsoon
+6,Near Lakshadweep,10.5667,72.64130,"Sunny, 29°C",Low Tide,9000,5:00 PM,Monsoon
+6,Off Seychelles,-4.6796,55.49200,"Cloudy, 28°C",High Tide,"15,000",11:00 PM,Monsoon
+6,Near Dar es Salaam,-6.7924,39.20830,"Clear, 30°C",Low Tide,"21,000",3:00 PM,Monsoon
+6,Mombasa Port,-4.0435,39.66820,"Clear, 29°C",High Tide,"24,000",8:00 PM,Monsoon
+7,Mumbai Port,18.9218,72.83350,"Partly Cloudy, 28°C",Low Tide,0,8:00 AM,Winter
+7,Off Goa,15.2993,74.12400,"Rain, 27°C",High Tide,5000,11:00 AM,Winter
+7,Southwest of Kerala,9.9312,76.26730,"Sunny, 31°C",Low Tide,"10,000",3:00 PM,Winter
+7,Colombo Port,6.9271,79.86120,"Clear, 30°C",High Tide,"14,000",8:00 PM,Winter
+8,Mumbai Port,18.9218,72.83350,"Overcast, 29°C",Low Tide,0,12:00 PM,Monsoon
+8,Near Goa,15.2993,74.12400,"Cloudy, 28°C",High Tide,5000,3:00 PM,Monsoon
+8,Off Kerala Coast,10.8505,75.58600,"Clear, 27°C",Low Tide,9000,7:00 PM,Monsoon
+8,Southeast of Sri Lanka,6.9319,81.00990,"Clear, 29°C",High Tide,"12,000",11:00 PM,Monsoon
+8,Andaman Sea,10.2833,92.68330,"Partly Cloudy, 28°C",Low Tide,"15,000",3:00 AM,Monsoon
+8,Malacca Strait,2.5570,101.93810,"Rain, 27°C",High Tide,"20,000",9:00 AM,Monsoon
+8,Singapore,1.3521,103.81980,"Clear, 30°C",Low Tide,"25,000",12:00 PM,Monsoon
+9,Ratnagiri Port,16.9950,73.31280,"Clear, 30°C",Low Tide,0,9:00 AM,Monsoon
+9,Near Dapoli,17.7500,73.10930,"Cloudy, 29°C",High Tide,"10,000",10:00 AM,Monsoon
+9,Mandwa,18.7936,72.83030,"Cloudy, 27°C",Low Tide,"15,000",11:30 AM,Monsoon
+9,Mumbai Port,18.9218,72.83350,"Clear, 30°C",High Tide,"20,000",12:00 PM,Monsoon
+10,Ratnagiri,16.9950,73.31280,"Clear, 30°C",Low Tide,0,9:30 AM,Winter
+10,Near Dapoli,17.7500,73.10930,"Sunny, 29°C",High Tide,"12,000",10:00 AM,Winter
+10,Near Goa,15.2993,74.12400,"Cloudy, 28°C",Low Tide,"17,000",12:00 PM,Winter
+10,Goa Port,15.5528,73.75790,"Clear, 30°C",High Tide,"23,000",1:00 PM,Winter
+11,Ratnagiri,16.9950,73.31280,"Clear, 29°C",Low Tide,0,8:00 AM,Autumn
+11,Off Coast of Karnataka,14.7833,74.00000,"Partly Cloudy, 28°C",High Tide,"10,000",10:00 AM,Autumn
+11,Off Coast of Kerala,10.8505,75.58600,"Rain, 27°C",Low Tide,"14,000",5:00 PM,Autumn
+11,Cochin Port,9.9356,76.26730,"Sunny, 31°C",High Tide,"20,000",6:00 PM,Autumn
+12,Ratnagiri,16.9950,73.31280,"Clear, 30°C",Low Tide,0,12:00 PM,Monsoon
+12,Off Coast of Tamil Nadu,8.8828,78.68250,"Overcast, 29°C",High Tide,"10,000",2:00 PM,Monsoon
+12,Southeast of Sri Lanka,6.9319,81.00990,"Cloudy, 28°C",Low Tide,"15,000",8:00 PM,Monsoon
+12,Galle Port,6.0374,80.21900,"Clear, 27°C",High Tide,"30,000",10:00 PM,Monsoon
+13,Ratnagiri,16.9950,73.31280,"Clear, 29°C",Low Tide,0,11:00 PM,Winter
+13,Off Nicobar,9.0876,93.98230,"Partly Cloudy, 28°C",High Tide,8000,3:00 PM,Winter
+13,Andaman Sea,10.2833,92.68330,"Rain, 27°C",Low Tide,"15,000",1:00 AM,Winter
+13,Port Blair,11.6234,92.72650,"Clear, 30°C",High Tide,"20,000",4:00 AM,Winter
+14,Ratnagiri,16.9950,73.31280,"Clear, 30°C",Low Tide,0,12:00 PM,Summer
+14,Malacca Strait,2.5570,101.93810,"Cloudy, 29°C",High Tide,"10,000",6:00 PM,Summer
+14,Singapore,1.3521,103.81980,"Clear, 32°C",Low Tide,"20,000",12:00 PM,Summer
+15,Mormugao Port,15.4046,73.80570,"Clear, 30°C",High Tide,0,8:00 AM,Winter
+15,Near Ratnagiri,16.9902,73.30000,"Partly Cloudy, 28°C",Low Tide,7000,2:00 PM,Winter
+15,Mumbai Port,18.9475,72.83400,"Partly Cloudy, 28°C",High Tide,"13,000",10:00 PM,Winter
+16,Mormugao Port,15.4046,73.80570,"Clear, 27°C",Low Tide,0,9:00 AM,Summer
+16,Near Calicut,11.2588,75.78040,"Windy, 28°C",High Tide,9000,6:00 PM,Summer
+16,Kochi Port,9.9640,76.24480,"Cloudy, 28°C",Low Tide,"15,000",3:00 AM,Summer
+17,Mormugao Port,15.4046,73.80570,"Rain, 27°C",High Tide,0,10:00 AM,Monsoon
+17,Near Kanyakumari,8.0883,77.53850,"Clear, 27°C",High Tide,8000,10:00 PM,Monsoon
+17,Colombo Port,6.9271,79.86120,"Cloudy, 26°C",Low Tide,"16,000",7:00 AM,Monsoon
+18,Mormugao Port,15.4046,73.80570,"Cloudy, 29°C",High Tide,0,3:00 PM,Spring
+18,Near Lakshadweep,10.5662,72.64100,"Clear, 32°C",Low Tide,"12,000",5:00 AM,Spring
+18,Male Port,4.1755,73.50930,"Clear, 30°C",High Tide,"18,000",7:00 PM,Spring
+19,Mormugao Port,15.4046,73.80570,"Clear, 27°C",Low Tide,0,8:00 AM,Autumn
+19,Bay of Bengal,5.8900,80.38000,"Windy, 28°C",High Tide,"12,000",10:00 PM,Autumn
+19,Port Klang,3.0033,101.40430,"Rain, 27°C",Low Tide,"19,000",5:00 AM,Autumn
+20,New Mangalore,12.9100,74.84000,"Clear, 28°C",High Tide,0,3:00 PM,Monsoon
+20,Karwar,14.8000,74.13000,"Rainy, 26°C",Low Tide,"5,000",8:00 PM,Monsoon
+20,Ratnagiri,16.9900,73.30000,"Clear, 29°C",High Tide,"10,000",1:00 AM,Monsoon
+20,Mumbai,18.9600,72.82000,"Partly Cloudy, 30°C",Low Tide,"15,000",6:00 AM,Monsoon
+21,New Mangalore,12.9100,74.84000,"Clear, 28°C",High Tide,0,1:00 PM,Winter
+21,Kozhikode,11.2500,75.77000,"Windy, 28°C",Low Tide,4000,5:00 PM,Winter 
+21,Kochi,9.9700,76.28000,"Clear, 29°C",Low Tide,8000,9:00 PM,Winter
+22,New Mangalore,12.9100,74.84000,"Clear, 28°C",High Tide,0,3:00 AM,Summer
+22,Kanyakumari,8.0800,77.57000,"Windy, 27°C",High Tide,"10,000",3:00 PM,Summer
+22,Colombo,6.9300,79.84000,"Cloudy, 30°C",Low Tide,"20,000",5:00 AM,Summer
+23,New Mangalore,12.9100,74.84000,"Clear, 28°C",High Tide,0,1:00 PM,Monsoon
+23,Open Ocean (midway),9.0000,75.00000,"Stormy, 24°C",Low Tide,"20,000",12:00 AM,Monsoon
+23,Male,4.1700,73.50000,"Clear, 30°C",High Tide,"35,000",2:00 PM,Monsoon
+24,New Mangalore,12.9100,74.84000,"Clear, 28°C",High Tide,0,12:00 PM,Autumn
+24,Andaman Sea (midway),10.0000,94.00000,"Cloudy, 31°C",Low Tide,"50,000",12:00 PM,Autumn
+24,Malacca Strait,3.0000,101.00000,"Clear, 28°C",Low Tide,"70,000",3:00 AM,Autumn
+24,Port Klang,2.9900,101.36000,"Clear, 32°C",High Tide,"85,000",5:00 PM,Autumn
+25,New Mangalore,12.9100,74.84000,"Clear, 28°C",High Tide,0,3:00 PM,Winter
+25,Arabian Sea (midway),15.0000,67.00000,"Clear, 29°C",Low Tide,"45,000",11:00 PM,Winter
+25,Dubai,25.2700,55.30000,"Clear, 35°C",High Tide,"80,000",8:00 AM,Winter
+26,New Mangalore,12.9100,74.84000,"Clear, 28°C",High Tide,0,6:00 AM,Autumn
+26,Bay of Bengal (midway),10.0000,90.00000,"Stormy, 25°C",Low Tide,"60,000",6:00 PM,Autumn
+26,Malacca Strait,4.0000,101.00000,"Cloudy, 30°C",High Tide,"90,000",5:00 PM,Autumn
+26,Singapore,1.3500,103.82000,"Clear, 32°C",Low Tide,"1,20,000",4:00 AM,Autumn
+27,Cochin,9.9312,76.26730,"Sunny, 28°C",Low Tide,0,4:00 AM,Summer
+27,"Colombo, Sri Lanka",6.9271,79.95840,"Partly Cloudy, 29°C",Medium Tide,"10,000",5:00 PM,Summer
+27,"Malindi, Kenya",-3.2237,40.11900,"Sunny, 27°C",Low Tide,"20,000",3:00 PM,Summer
+27,Dar es Salaam,-6.7924,39.20830,"Clear, 28°C",High Tide,"23,000",7:00 AM,Summer
+28,Cochin,9.9312,76.26730,"Cloudy, 29°C",Low Tide,0,5:00 PM,Winter
+28,"Mumbai, India",19.0760,72.87770,"Sunny, 28°C",High Tide,"10,000",9:00 PM,Winter
+28,Seychelles,-4.6796,55.49110,"Clear, 28°C",High Tide,"17,000",3:00 AM,Winter
+28,Mombasa,-4.0435,39.66820,"Cloudy, 30°C",Low Tide,"24,000",3:00 PM,Winter
+29,Cochin,9.9312,76.26730,"Clear, 29°C",Low Tide,0,3:00 PM,Autumn
+29,"Port Louis, Mauritius",-20.1602,57.50120,"Clear, 28°C",High Tide,9000,8:00 PM,Autumn
+29,"Pemba, Tanzania",-4.9511,39.59440,"Windy, 27°C",Low Tide,"17,000",1:00 AM,Autumn
+29,Zanzibar,-6.1659,39.20260,"Cloudy, 30°C",Low Tide,"25,000",6:00 AM,Autumn
+30,Cochin,9.9312,76.26730,"Cloudy, 31°C",Low Tide,0,5:00 AM,Spring
+30,"Colombo, Sri Lanka",6.9271,79.95840,"Clear, 28°C",High Tide,"12,000",4:00 PM,Spring
+30,"Maputo, Mozambique",-25.9701,32.58920,"Clear, 32°C",Low Tide,"20,000",5:00 AM,Spring
+30,Durban,-29.8587,31.02180,"Clear, 28°C",Low Tide,"25,000",3:00 AM,Spring
+31,Cochin,9.9312,76.26730,"Sunny, 27°C",Low Tide,0,6:00 AM,Monsoon
+31,Kollam,8.8832,76.61400,"Partly Cloudy, 28°C",Medium Tide,"5,000",6:00 PM,Monsoon
+31,Alappuzha,9.4981,76.33840,"Clear, 28°C",Low Tide,"9,000",5:00 PM,Monsoon
+31,Vapi,20.3636,72.91950,"Cloudy, 30°C",High Tide,"10,000",4:00 AM,Monsoon
+31,Mumbai,19.0760,72.87770,"Clear, 29°C",High Tide,"13,000",4:00 AM,Monsoon
+32,Cochin,9.9312,76.26730,"Sunny, 26°C",Low Tide,0,5:00 PM,Autumn
+32,Quilon,8.8832,76.61400,"Cloudy, 31°C",Low Tide,3000,3:00 PM,Autumn
+32,Mangalore,12.8694,74.84620,"Clear, 28°C",Medium Tide,6000,7:00 AM,Autumn
+32,Karwar,14.7992,74.12820,"Clear, 32°C",High Tide,9000,5:00 PM,Autumn
+32,Goa,15.2993,74.12400,"Clear, 28°C",Low Tide,"12,000",9:00 PM,Autumn
+33,Cochin,9.9312,76.26730,"Clear, 28°C",Low Tide,0,3:00 AM,Summer
+33,"Colombo, Sri Lanka",6.9271,79.95840,"Cloudy, 31°C",High Tide,"10,000",3:00 PM,Summer
+33,Singapore,1.3521,103.81980,"Clear, 28°C",Low Tide,"20,000",3:00 PM,Summer
+33,Hong Kong,22.3193,114.16940,"Clear, 32°C",High Tide,"30,000",8:00 PM,Summer
+34,Cochin,9.9312,76.26730,"Sunny, 27°C",Low Tide,0,1:00 AM,Spring
+34,"Colombo, Sri Lanka",6.9271,79.95840,"Partly Cloudy, 28°C",High Tide,"10,000",6:00 AM,Spring
+34,"Shenzhen, China",22.5431,114.05790,"Clear, 28°C",Medium Tide,"19,000",5:00 AM,Spring
+34,Shanghai,31.2304,121.47370,"Cloudy, 30°C",High Tide,"27,000",4:00 PM,Spring
+35,Tuticorin Port,8.7642,78.13480,"Clear, 28°C",High Tide,0,4:00 PM,Summer
+35,Gulf of Mannar,8.4834,78.78310,"Cloudy, 27°C",Low Tide,7000,6:00 PM,Summer
+35,Near Adams Bridge,9.0833,79.41670,"Clear, 28°C",Low Tide,"15,000",10:00 PM,Summer
+35,Colombo Port,6.9271,79.86120,"Rainy, 26°C",High Tide,"20,000",1:00 AM,Summer
+36,Tuticorin Port,8.7642,78.13480,"Clear, 28°C",High Tide,0,2:00 PM,Monsoon
+36,Great Nicobar Island,7.0000,93.70700,"Rainy, 26°C",Low Tide,5000,8:00 PM,Monsoon
+36,Andaman Sea,5.5667,95.33330,"Cloudy, 27°C",Medium Tide,"10,000",1:00 AM,Monsoon
+36,Malacca Strait,3.0000,100.00000,"Clear, 28°C",High Tide,"15,000",6:00 AM,Monsoon
+36,Port Klang,3.0033,101.40000,"Rainy, 26°C",High Tide,"21,000",9:00 AM,Monsoon
+37,Tuticorin Port,8.7642,78.13480,"Clear, 28°C",High Tide,0,10:00 AM,Winter
+37,Lakshadweep Sea,10.5667,72.56670,"Cloudy, 27°C",Low Tide,"10,000",4:00 PM,Winter
+37,Near Minicoy Island,8.3000,73.05000,"Cloudy, 27°C",Low Tide,"14,000",8:00 PM,Winter
+37,Male Port,4.1755,73.50930,"Clear, 29°C",High Tide,"20,000",12:00 AM,Winter
+38,Tuticorin Port,8.7642,78.13480,"Clear, 28°C",High Tide,0,8:00 AM,Autumn
+38,Andaman Sea,10.0000,95.00000,"Cloudy, 27°C",Low Tide,"12,000",5:00 PM,Autumn
+38,Strait of Malacca (Mid),3.5000,100.00000,"Clear, 28°C",Medium Tide,"19,000",11:00 PM,Autumn
+38,Singapore Port,1.3521,103.81980,"Clear, 30°C",High Tide,"25,000",2:00 AM,Autumn
+39,Tuticorin Port,8.7642,78.13480,"Clear, 28°C",Medium Tide,0,9:00 AM,Monsoon
+39,Nagapattinam,10.7631,79.84360,"Rainy, 26°C",High Tide,3000,12:00 AM,Monsoon
+39,Cuddalore,11.7500,79.75000,"Cloudy, 27°C",Low Tide,6000,2:00 PM,Monsoon
+39,Chennai Port,13.0827,80.27070,"Clear, 29°C",High Tide,9000,5:00 PM,Monsoon
+40,Tuticorin Port,8.7642,78.13480,"Clear, 28°C",High Tide,0,10:00 AM,Summer
+40,Mid Bay of Bengal,13.0000,87.00000,"Cloudy, 27°C",Low Tide,9000,7:00 PM,Summer
+40,Andaman Sea,15.0000,95.00000,"Cloudy, 27°C",Low Tide,"14,000",1:00 AM,Summer
+40,Yangon Port,16.8661,96.19510,"Clear, 29°C",Medium Tide,"18,000",5:00 AM,Summer
+41,Chennai Port,13.0827,80.27070,"Clear, 29°C",High Tide,0,10:00 AM,Winter
+41,Bay of Bengal,11.8500,80.60000,"Clear, 28°C",Low Tide,7000,2:00 PM,Winter
+41,Bay of Bengal,9.8000,81.20000,"Cloudy, 27°C",Medium Tide,"12,000",9:00 PM,Winter
+41,Colombo,6.9271,79.86120,"Cloudy, 27°C",High Tide,"18,000",3:00 AM,Winter
+42,Chennai Port,13.0827,80.27070,"Partly Cloudy, 28°C",High Tide,0,10:00 AM,Autumn
+42,Bay of Bengal (WP1),10.5000,82.00000,"Clear, 28°C",Medium Tide,8000,3:00 PM,Autumn
+42,Andaman Sea (WP2),7.0000,92.00000,"Cloudy, 30°C",Low Tide,"16,000",9:00 PM,Autumn
+42,Singapore,1.3521,103.81980,"Clear, 28°C",Medium Tide,"24,000",5:00 AM,Autumn
+43,Chennai Port,13.0827,80.27070,"Cloudy, 27°C",High Tide,0,11:00 AM,Monsoon
+43,Bay of Bengal,11.0000,81.50000,"Clear, 28°C",Medium Tide,"10,000",6:00 PM,Monsoon
+43,Malacca Strait,4.0000,100.00000,"Rainy, 26°C",Low Tide,"15,000",3:00 AM,Monsoon
+43,Port Klang,3.0000,101.40000,"Clear, 28°C",Low Tide,"23,000",8:00 AM,Monsoon
+44,Chennai Port,13.0827,80.27070,"Clear, 32°C",High Tide,0,1:00 PM,Summer
+44,Bay of Bengal,10.0000,85.00000,"Clear, 28°C",Medium Tide,6000,11:00 PM,Summer
+44,Andaman Sea,7.0000,94.00000,"Clear, 28°C",Medium Tide,"12,000",7:00 AM,Summer
+44,Yangon Port,16.8409,96.17350,"Cloudy, 31°C",Low Tide,"18,000",3:00 PM,Summer
+45,Chennai Port,13.0827,80.27070,"Clear, 29°C",Low Tide,0,12:00 PM,Autumn
+45,Bay of Bengal,11.5000,81.50000,"Sunny, 26°C",High Tide,5000,6:00 PM,Autumn
+45,Laccadive Sea,8.0000,73.00000,"Cloudy, 31°C",High Tide,"10,000",2:00 AM,Autumn
+45,Male Port,4.1755,73.50820,"Clear, 28°C",High Tide,"15,000",8:00 AM,Autumn
+46,Chennai Port,13.0827,80.27070,"Rainy, 26°C",High Tide,0,10:00 AM,Monsoon
+46,Bay of Bengal,10.0000,85.00000,"Clear, 28°C",Medium Tide,"7,000",7:00 PM,Monsoon
+46,Sunda Strait,-6.0000,106.00000,"Cloudy, 27°C",Medium Tide,"13,000",9:00 AM,Monsoon
+46,Jakarta Port,-6.2088,106.84560,"Cloudy, 27°C",Low Tide,"18,000",5:00 PM,Monsoon
+47,Chennai Port,13.0827,80.27070,"Cloudy, 31°C",High Tide,0,5:00 AM,Summer
+47,Arabian Sea,15.0000,68.00000,"Clear, 29°C",High Tide,"15,000",5:00 AM,Summer
+47,Gulf of Oman,23.0000,59.00000,"Sunny, 26°C",Medium Tide,"30,000",6:00 PM,Summer
+47,Dubai Port,25.2769,55.29620,"Cloudy, 31°C",High Tide,"45,000",4:00 PM,Summer
+48,Chennai Port,13.0827,80.27070,"Partly Cloudy, 28°C",Medium Tide,0,6:00 PM,Autumn
+48,Bay of Bengal,10.0000,85.00000,"Clear, 28°C",Low Tide,7000,2:00 AM,Autumn
+48,Bay of Bengal,8.5000,90.00000,"Cloudy, 30°C",Low Tide,"14,000",8:00 AM,Autumn
+48,Chittagong Port,22.3569,91.78320,"Clear, 28°C",High Tide,"20,000",10:00 AM,Autumn
+49,Chennai Port,13.0827,80.27070,"Clear, 28°C",Medium Tide,0,11:00 PM,Monsoon
+49,Bay of Bengal,10.0000,85.00000,"Rainy, 26°C",Low Tide,"10,000",7:00 AM,Monsoon
+49,Bay of Bengal,9.0000,92.00000,"Clear, 28°C",Low Tide,"15,000",3:00 PM,Monsoon
+49,Sittwe Port,20.1489,92.90010,"Rainy, 24°C",High Tide,"25,000",12:00 PM,Monsoon
+50,Elnores,1.4927,103.74140,"Clear, 27°C",Low Tide,0,6:00 AM,Winter
+50,Near Hawaii,20.7984,-156.33190,"Partly Cloudy, 28°C",High Tide,"20,000",2:00 AM,Winter
+50,Pacific Ocean,30.0000,-130.00000,"Overcast, 25°C",Low Tide,"40,000",7:00 PM,Winter
+50,Los Angeles,34.0522,-118.24370,"Clear, 25°C",High Tide,"70,000",12:00 PM,Winter
+51,Elnores,1.4927,103.74140,"Clear, 27°C",Low Tide,0,7:00 AM,Winter
+51,Near Luzon Strait,21.5848,121.23940,"Overcast, 27°C",High Tide,"20,000",4:00 PM,Winter
+51,East China Sea,28.0000,127.50000,"Showers, 24°C",Low Tide,"35,000",11:00 PM,Winter
+51,Tokyo Bay,35.6895,139.69170,"Partly Cloudy, 20°C",High Tide,"50,000",8:00 AM,Winter
+52,Elnores,1.4927,103.74140,"Clear,27°C",High Tide,0,5:00 AM,Winter
+52,Malacca Strait,3.1016,100.36210,"Partly Cloudy, 27°C",Low Tide,"12,000",9:00 AM,Winter
+52,Suez Canal Entry,30.5852,32.26560,"Overcast, 27°C",High Tide,"34,000",2:00 AM,Winter
+52,Mediterranean Sea,34.0522,12.55500,"Clear, 27°C",Low Tide,"40,000",1:00 PM,Winter
+52,Rotterdam,51.9225,4.47920,"Cloudy, 27°C",High Tide,"50,000",6:00 PM,Winter
+53,Elnores,1.4927,103.74140,"Clear, 27°C",High Tide,0,6:00 AM,Winter
+53,Malacca Strait,3.1016,100.36210,"Partly Cloudy, 26°C",Low Tide,"11,000",9:00 AM,Winter
+53,Near Selangor Coast,3.1000,101.25000,"Cloudy, 27°C",High Tide,"23,000",11:30 AM,Winter
+53,Port Klang,2.9937,101.34310,"Clear, 27°C",Low Tide,"35,000",1:00 PM,Winter
+54,Elnores,1.4927,103.74140,"Clear, 27°C",High Tide,0,6:00 AM,Winter
+54,Malacca Strait,3.1016,100.36210,"Overcast, 26°C",Low Tide,"10,000",9:00 AM,Winter
+54,Off Batam Island,1.0255,104.03040,"Partly Cloudy, 28°C",High Tide,"21,000",11:30 AM,Winter
+54,Singapore,1.3521,103.81980,"Clear, 29°C",Low Tide,"32,000",1:00 PM,Winter
+55,Vishakhapatnam,17.6868,83.21850,"Clear, 30°C",Low Tide,0,6:00 AM,Winter
+55,Near Sri Lanka,8.0883,81.13500,"Clear, 29°C",High Tide,"15,000",1:00 PM,Winter
+55,Gulf of Oman,23.4241,58.28220,"Partly Cloudy, 28°C",Low Tide,"30,000",8:00 PM,Winter
+55,Dubai,25.2760,55.29620,"Clear, 27°C",High Tide,"40,000",11:00 PM,Winter
+56,Vishakhapatnam,17.6868,83.21850,"Clear, 30°C",Low Tide,0,8:00 AM,Winter
+56,Off Andhra Coast,16.0000,82.00000,"Partly Cloudy, 29°C",High Tide,7000,11:00 AM,Winter
+56,Near Goa,15.2993,74.12400,"Clear, 28°C",Low Tide,"10,000",5:00 PM,Winter
+56,Mumbai,19.0760,72.87770,"Cloudy, 27°C",High Tide,"15,000",8:00 PM,Winter
+57,Vishakhapatnam,17.6868,83.21850,"Clear, 30°C",Low Tide,0,7:00 AM,Winter
+57,Near Chennai Coast,13.0827,80.27070,"Cloudy, 29°C",High Tide,"12,000",2:00 PM,Winter
+57,Off Malabar Coast,11.2588,75.78040,"Showers, 28°C",Low Tide,"15,000",9:00 PM,Winter
+57,Cochin,9.9312,76.26730,"Partly Cloudy, 28°C",High Tide,"18,000",1:00 AM,Winter
+58,Vishakhapatnam,17.6868,83.21850,"Partly Cloudy, 30°C",Low Tide,0,7:00 AM,Winter
+58,Bay of Bengal,13.0000,81.00000,"Overcast, 28°C",High Tide,7000,11:00 AM,Winter
+58,Near Jaffna,9.6615,80.02550,"Partly Cloudy, 29°C",Low Tide,"14,000",2:30 PM,Winter
+58,Colombo,6.9271,79.86120,"Clear, 28°C",High Tide,"20,000",5:00 PM,Winter
+59,Vishakhapatnam,17.6868,83.21850,"Partly Cloudy, 30°C",Low Tide,0,6:00 AM,Winter
+59,Near Cocos Islands,-12.1642,96.87100,"Clear, 27°C",High Tide,"12,000",3:00 PM,Winter
+59,Timor Sea,-10.0000,130.00000,"Overcast, 26°C",Low Tide,"20,000",2:00 AM,Winter
+59,Sydney,-33.8688,151.20930,"Clear, 24°C",High Tide,"30,000",8:00 PM,Winter
+60,Visakhapatnam Port,17.6868,83.21850,"Sunny, 30°C",Low Tide,0,9:00 AM,Spring
+60,Off Coast of Tamil Nadu,16.5000,82.20000,"Partly Cloudy, 28°C",High Tide,3168,12:00 PM,Spring
+60,Southeast Bay of Bengal,13.0000,82.00000,"Overcast, 27°C",Low Tide,4224,5:00 PM,Spring
+60,"Near Colombo, Sri Lanka",6.9271,79.86120,"Rain, 26°C",High Tide,4752,11:00 PM,Spring
+60,Port of Colombo,6.9271,79.86120,"Cloudy, 27°C",Low Tide,5280,8:00 AM,Spring
+61,Paradip Port,20.2500,86.65000,"Sunny, 30°C",Low Tide,0,8:00 AM,Spring
+61,Off Coast of Andhra Pradesh,18.1000,84.15000,"Cloudy, 28°C",High Tide,"3,168",11:00 AM,Spring
+61,Southeast Bay of Bengal,14.0000,81.50000,"Overcast, 27°C",Low Tide,"4,224",4:00 PM,Spring
+61,"Near Yangon, Myanmar",16.8661,96.19510,"Partly Cloudy, 29°C",High Tide,"4,752",9:00 PM,Spring
+61,"Port of Yangon, Myanmar",16.8661,96.19510,"Cloudy, 28°C",Low Tide,"5,280",6:00 AM,Spring
+62,Kolkata Port,22.5700,88.36000,"Clear, 29°C",High Tide,0,7:00 AM,Summer
+62,Northern Bay of Bengal,19.5000,89.00000,"Partly Cloudy, 27°C",Low Tide,"3,168",11:00 AM,Summer
+62,Off Coast of Thailand,12.0000,100.50000,"Rain, 26°C",High Tide,"4,224",5:00 PM,Summer
+62,Gulf of Thailand,10.2833,103.83330,"Overcast, 28°C",Low Tide,"4,752",10:00 PM,Summer
+62,"Laem Chabang Port, Thailand",13.0845,100.90130,"Clear, 30°C",High Tide,"5,280",8:00 AM,Summer
+63,Haldia Port,22.0600,88.08000,"Cloudy, 28°C",Low Tide,0,9:00 AM,Winter
+63,Off Coast of Odisha,20.3500,87.25000,"Partly Cloudy, 29°C",High Tide,"3,168",12:00 PM,Winter
+63,Near Andaman Sea,10.2833,92.68330,"Sunny, 30°C",Low Tide,"4,224",5:00 PM,Winter
+63,Malacca Strait,2.0000,101.00000,"Overcast, 28°C",High Tide,"4,752",11:00 PM,Winter
+63,"Port Klang, Malaysia",3.1390,101.68690,"Clear, 27°C",Low Tide,"5,280",8:00 AM,Winter

@@ -1,0 +1,262 @@
+Route_ID,Location,Latitude,Longitude,Weather Conditions,Temperature( °C),Tide Information,Fuel Cost,Time,Season,Route_Optimal,Distance_to_Next,Cumulative_Fuel_Cost,Weather_Conditions_Encoded,Tide_Information_Encoded,Weather_Tide_Interaction,Weather_Temperature_Interaction,Tide_Temperature_Interaction
+1,Kandla Port,23.036,70.2239,"Clear, ",28,Low Tide,0,0,Summer,1,170.34165186464617,0,1,1,1,28,28
+1,Off Coast of Gujarat,22.0,69.0,Clear,29,High Tide,6000,2,Summer,1,382.4979015023563,6000,0,0,0,0,0
+1,Arabian Sea,20.0,66.0,Cloudy,27,Low Tide,10000,4,Summer,0,867.6498391668179,16000,2,1,2,54,27
+1,Near Coast of Oman,23.61,58.55,Clear,30,High Tide,15000,8,Summer,0,378.0603673549415,31000,0,0,0,0,0
+1,Dubai,25.2769,55.2962,Clear,30,Low Tide,21000,10,Summer,0,0.0,52000,0,1,0,0,30
+2,Chennai Port,13.082,80.292,Clear,30,High Tide,19000,0,Winter,0,1531.6484933710644,19000,0,0,0,0,0
+2,Kandla Port,23.036,70.2239,Sunny,29,High Tide,0,1,Winter,1,170.34165186464617,19000,9,0,0,261,0
+2,Off Coast of Gujarat,22.0,69.0,Cloudy,28,Low Tide,12000,2,Winter,0,836.9768412556285,31000,2,1,2,56,28
+2,Arabian Sea,15.0,66.0,Clear,30,High Tide,15000,4,Winter,0,2871.856234640152,46000,0,0,0,0,0
+2,Off Coast of Somalia,1.0,44.0,Clear,29,Low Tide,20000,9,Winter,0,737.0445618123177,66000,0,1,0,0,29
+2,Mombasa,-4.0435,39.6682,Partly Cloudy,28,High Tide,23000,11,Winter,0,0.0,89000,4,0,0,112,0
+3,Kandla Port,23.036,70.2239,Rain,27,Low Tide,0,0,Spring,1,949.4153885692123,0,5,1,5,135,27
+3,Off Coast of Goa,15.2993,74.124,Sunny,31,High Tide,14000,3,Spring,0,1192.2387275871615,14000,9,0,0,279,0
+3,Southeast of Sri Lanka,6.9319,81.0099,Clear,30,Low Tide,19000,7,Spring,0,1337.0954411722564,33000,0,1,0,0,30
+3,Andaman Sea,10.2833,92.6833,Overcast,29,High Tide,25000,8,Spring,0,1255.587068869004,58000,3,0,0,87,0
+3,Port Klang,3.0,101.4,Cloudy,28,Low Tide,27000,16,Spring,0,0.0,85000,2,1,2,56,28
+4,Kandla Port,23.036,70.2239,Clear,27,High Tide,0,0,Autumn,1,551.7634230125061,0,0,0,0,0,0
+4,Arabian Sea,20.0,66.0,Clear,29,High Tide,12000,7,Autumn,0,2412.757467756233,12000,0,0,0,0,0
+4,Gulf of Aden,12.0,45.0,Partly Cloudy,28,Low Tide,15000,14,Autumn,0,2440.8535736846097,27000,4,1,4,112,28
+4,Suez Canal,30.5852,32.2656,Rain,27,High Tide,20000,19,Autumn,0,915.5345006014932,47000,5,0,0,135,0
+4,Mediterranean Sea,35.0,24.0,Clear,30,Low Tide,23000,21,Autumn,0,2439.603651182826,70000,0,1,0,0,30
+4,Rotterdam,51.9225,4.4792,Clear,30,High Tide,25000,23,Autumn,0,0.0,95000,0,0,0,0,0
+5,Mumbai Port,18.9218,72.8335,Cloudy,29,Low Tide,0,0,Summer,1,407.1128778506844,0,2,1,2,58,29
+5,Near Gujarat Coast,22.2587,71.1924,Clear,28,High Tide,7000,4,Summer,1,1321.7639249394997,7000,0,0,0,0,0
+5,"Off Muscat, Oman",23.588,58.3829,Clear,29,Low Tide,11000,6,Summer,0,364.57861215215036,18000,0,1,0,0,29
+5,Near Dubai,25.276,55.2963,Cloudy,27,High Tide,17000,6,Summer,0,1.251920651771628,35000,2,0,0,54,0
+5,Dubai Port,25.2711,55.3075,Clear,30,Low Tide,24000,9,Summer,0,0.0,59000,0,1,0,0,30
+6,Mumbai Port,18.9218,72.8335,Clear,30,High Tide,0,0,Monsoon,1,924.7058234761216,0,0,0,0,0,0
+6,Near Lakshadweep,10.5667,72.6413,Sunny,29,Low Tide,9000,8,Monsoon,1,2540.8445149146405,9000,9,1,9,261,29
+6,Off Seychelles,-4.6796,55.492,Cloudy,28,High Tide,15000,6,Monsoon,0,1818.5827639556644,24000,2,0,0,56,0
+6,Near Dar es Salaam,-6.7924,39.2083,Clear,30,Low Tide,21000,4,Monsoon,0,308.22787923191527,45000,0,1,0,0,30
+6,Mombasa Port,-4.0435,39.6682,Clear,29,High Tide,24000,5,Monsoon,0,0.0,69000,0,0,0,0,0
+7,Mumbai Port,18.9218,72.8335,Partly Cloudy,28,Low Tide,0,0,Winter,1,423.76718905037603,0,4,1,4,112,28
+7,Off Goa,15.2993,74.124,Rain,27,High Tide,5000,3,Winter,1,637.8512263567108,5000,5,0,0,135,0
+7,Southwest of Kerala,9.9312,76.2673,Sunny,31,Low Tide,10000,3,Winter,0,516.7109402887182,15000,9,1,9,279,31
+7,Colombo Port,6.9271,79.8612,Clear,30,High Tide,14000,5,Winter,0,0.0,29000,0,0,0,0,0
+8,Mumbai Port,18.9218,72.8335,Overcast,29,Low Tide,0,0,Monsoon,1,423.76718905037603,0,3,1,3,87,29
+8,Near Goa,15.2993,74.124,Cloudy,28,High Tide,5000,3,Monsoon,1,517.0733138051613,5000,2,0,0,56,0
+8,Off Kerala Coast,10.8505,75.586,Clear,27,Low Tide,9000,4,Monsoon,0,737.2843926659513,14000,0,1,0,0,27
+8,Southeast of Sri Lanka,6.9319,81.0099,Clear,29,High Tide,12000,7,Monsoon,0,1337.0954411722564,26000,0,0,0,0,0
+8,Andaman Sea,10.2833,92.6833,Partly Cloudy,28,Low Tide,15000,4,Monsoon,0,1332.901572351636,41000,4,1,4,112,28
+8,Malacca Strait,2.557,101.9381,Rain,27,High Tide,20000,6,Monsoon,0,248.14558374741503,61000,5,0,0,135,0
+8,Singapore,1.3521,103.8198,Clear,30,Low Tide,25000,8,Monsoon,0,0.0,86000,0,1,0,0,30
+9,Ratnagiri Port,16.995,73.3128,Clear,30,Low Tide,0,0,Monsoon,1,86.31166840502934,0,0,1,0,0,30
+9,Near Dapoli,17.75,73.1093,Cloudy,29,High Tide,10000,1,Monsoon,0,119.2171820547064,10000,2,0,0,58,0
+9,Mandwa,18.7936,72.8303,Cloudy,27,Low Tide,15000,2,Monsoon,0,14.194512352146251,25000,2,1,2,54,27
+9,Mumbai Port,18.9218,72.8335,Clear,30,High Tide,20000,2,Monsoon,0,0.0,45000,0,0,0,0,0
+10,Ratnagiri,16.995,73.3128,Clear,30,Low Tide,0,0,Winter,1,86.31166840502934,0,0,1,0,0,30
+10,Near Dapoli,17.75,73.1093,Sunny,29,High Tide,12000,1,Winter,0,292.0326552678261,12000,9,0,0,261,0
+10,Near Goa,15.2993,74.124,Cloudy,28,Low Tide,17000,2,Winter,0,48.279803050314165,29000,2,1,2,56,28
+10,Goa Port,15.5528,73.7579,Clear,30,High Tide,23000,0,Winter,0,0.0,52000,0,0,0,0,0
+11,Ratnagiri,16.995,73.3128,Clear,29,Low Tide,0,2,Autumn,1,255.5655298895001,0,0,1,0,0,29
+11,Off Coast of Karnataka,14.7833,74.0,Partly Cloudy,28,High Tide,10000,2,Autumn,0,467.90003630330796,10000,4,0,0,112,0
+11,Off Coast of Kerala,10.8505,75.586,Rain,27,Low Tide,14000,3,Autumn,0,125.72519338860825,24000,5,1,5,135,27
+11,Cochin Port,9.9356,76.2673,Sunny,31,High Tide,20000,2,Autumn,0,0.0,44000,9,0,0,279,0
+12,Ratnagiri,16.995,73.3128,Clear,30,Low Tide,0,0,Monsoon,1,1069.7129959021875,0,0,1,0,0,30
+12,Off Coast of Tamil Nadu,8.8828,78.6825,Overcast,29,High Tide,10000,2,Monsoon,0,335.2741016636169,10000,3,0,0,87,0
+12,Southeast of Sri Lanka,6.9319,81.0099,Cloudy,28,Low Tide,15000,3,Monsoon,0,132.05513572263774,25000,2,1,2,56,28
+12,Galle Port,6.0374,80.219,Clear,27,High Tide,30000,3,Monsoon,0,0.0,55000,0,0,0,0,0
+13,Ratnagiri,16.995,73.3128,Clear,29,Low Tide,0,0,Winter,0,2404.080098402273,0,0,1,0,0,29
+13,Off Nicobar,9.0876,93.9823,Partly Cloudy,28,High Tide,8000,4,Winter,1,194.45282610675812,8000,4,0,0,112,0
+13,Andaman Sea,10.2833,92.6833,Rain,27,Low Tide,15000,2,Winter,0,148.3095728805799,23000,5,1,5,135,27
+13,Port Blair,11.6234,92.7265,Clear,30,High Tide,20000,1,Winter,0,0.0,43000,0,0,0,0,0
+14,Ratnagiri,16.995,73.3128,Clear,30,Low Tide,0,0,Summer,1,3514.367408671268,0,0,1,0,0,30
+14,Malacca Strait,2.557,101.9381,Cloudy,29,High Tide,10000,5,Summer,0,248.14558374741503,10000,2,0,0,58,0
+14,Singapore,1.3521,103.8198,Clear,32,Low Tide,20000,6,Summer,0,0.0,30000,0,1,0,0,32
+15,Mormugao Port,15.4046,73.8057,Clear,30,High Tide,0,0,Winter,1,183.60629382387836,0,0,0,0,0,0
+15,Near Ratnagiri,16.9902,73.3,Partly Cloudy,28,Low Tide,7000,4,Winter,1,222.18576086865187,7000,4,1,4,112,28
+15,Mumbai Port,18.9475,72.834,Partly Cloudy,28,High Tide,13000,2,Winter,0,0.0,20000,4,0,0,112,0
+16,Mormugao Port,15.4046,73.8057,Clear,27,Low Tide,0,0,Summer,1,506.0825146946126,0,0,1,0,0,27
+16,Near Calicut,11.2588,75.7804,Windy,28,High Tide,9000,4,Summer,0,151.9686677033162,9000,10,0,0,280,0
+16,Kochi Port,9.964,76.2448,Cloudy,28,Low Tide,15000,3,Summer,0,0.0,24000,2,1,2,56,28
+17,Mormugao Port,15.4046,73.8057,Rain,27,High Tide,0,0,Monsoon,1,905.7239719451624,0,5,0,0,135,0
+17,Near Kanyakumari,8.0883,77.5385,Clear,27,High Tide,8000,5,Monsoon,0,286.7225157694103,8000,0,0,0,0,0
+17,Colombo Port,6.9271,79.8612,Cloudy,26,Low Tide,16000,9,Monsoon,0,0.0,24000,2,1,2,52,26
+18,Mormugao Port,15.4046,73.8057,Cloudy,29,High Tide,0,0,Spring,1,549.9791231397245,0,2,0,0,58,0
+18,Near Lakshadweep,10.5662,72.641,Clear,32,Low Tide,12000,2,Spring,0,713.2358403890371,12000,0,1,0,0,32
+18,Male Port,4.1755,73.5093,Clear,30,High Tide,18000,2,Spring,0,0.0,30000,0,0,0,0,0
+19,Mormugao Port,15.4046,73.8057,Clear,27,Low Tide,0,0,Autumn,1,1274.2702264707386,0,0,1,0,0,27
+19,Bay of Bengal,5.89,80.38,Windy,28,High Tide,12000,3,Autumn,0,2354.822872396085,12000,10,0,0,280,0
+19,Port Klang,3.0033,101.4043,Rain,27,Low Tide,19000,2,Autumn,0,0.0,31000,5,1,5,135,27
+20,New Mangalore,12.91,74.84,Clear,28,High Tide,0,0,Monsoon,1,222.74543883705644,0,0,0,0,0,0
+20,Karwar,14.8,74.13,Rainy,26,Low Tide,5000,2,Monsoon,0,258.1243578585949,5000,6,1,6,156,26
+20,Ratnagiri,16.99,73.3,Clear,29,High Tide,10000,3,Monsoon,0,223.88827646075413,15000,0,0,0,0,0
+20,Mumbai,18.96,72.82,Partly Cloudy,30,Low Tide,15000,2,Monsoon,0,0.0,30000,4,1,4,120,30
+21,New Mangalore,12.91,74.84,Clear,28,High Tide,0,0,Winter,1,209.69537086402315,0,0,0,0,0,0
+21,Kozhikode,11.25,75.77,Windy,28,Low Tide,4000,3,Winter ,1,152.18508015919002,4000,10,1,10,280,28
+21,Kochi,9.97,76.28,Clear,29,Low Tide,8000,2,Winter,0,0.0,12000,0,1,0,0,29
+22,New Mangalore,12.91,74.84,Clear,28,High Tide,0,0,Summer,1,612.1124285509204,0,0,0,0,0,0
+22,Kanyakumari,8.08,77.57,Windy,27,High Tide,10000,2,Summer,0,280.97275789114167,10000,10,0,0,270,0
+22,Colombo,6.93,79.84,Cloudy,30,Low Tide,20000,4,Summer,0,0.0,30000,2,1,2,60,30
+23,New Mangalore,12.91,74.84,Clear,28,High Tide,0,0,Monsoon,1,432.8571078037994,0,0,0,0,0,0
+23,Open Ocean (midway),9.0,75.0,Stormy,24,Low Tide,20000,4,Monsoon,0,559.298106703557,20000,8,1,8,192,24
+23,Male,4.17,73.5,Clear,30,High Tide,35000,2,Monsoon,0,0.0,55000,0,0,0,0,0
+24,New Mangalore,12.91,74.84,Clear,28,High Tide,0,0,Autumn,1,2114.6760202928162,0,0,0,0,0,0
+24,Andaman Sea (midway),10.0,94.0,Cloudy,31,Low Tide,50000,3,Autumn,0,1094.5205148784398,50000,2,1,2,62,31
+24,Malacca Strait,3.0,101.0,Clear,28,Low Tide,70000,2,Autumn,0,40.03591698739974,120000,0,1,0,0,28
+24,Port Klang,2.99,101.36,Clear,32,High Tide,85000,3,Autumn,0,0.0,205000,0,0,0,0,0
+25,New Mangalore,12.91,74.84,Clear,28,High Tide,0,0,Winter,1,878.0521442143585,0,0,0,0,0,0
+25,Arabian Sea (midway),15.0,67.0,Clear,29,Low Tide,45000,4,Winter,0,1668.230150632709,45000,0,1,0,0,29
+25,Dubai,25.27,55.3,Clear,35,High Tide,80000,2,Winter,0,0.0,125000,0,0,0,0,0
+26,New Mangalore,12.91,74.84,Clear,28,High Tide,0,0,Autumn,1,1684.851926930232,0,0,0,0,0,0
+26,Bay of Bengal (midway),10.0,90.0,Stormy,25,Low Tide,60000,3,Autumn,0,1384.2472218751784,60000,8,1,8,200,25
+26,Malacca Strait,4.0,101.0,Cloudy,30,High Tide,90000,5,Autumn,0,429.163652118776,150000,2,0,0,60,0
+26,Singapore,1.35,103.82,Clear,32,Low Tide,120000,3,Autumn,0,0.0,270000,0,1,0,0,32
+27,Cochin,9.9312,76.2673,Sunny,28,Low Tide,0,0,Summer,1,524.9528479560721,0,9,1,9,252,28
+27,"Colombo, Sri Lanka",6.9271,79.9584,Partly Cloudy,29,Medium Tide,10000,5,Summer,0,4566.764437664032,10000,4,2,8,116,58
+27,"Malindi, Kenya",-3.2237,40.119,Sunny,27,Low Tide,20000,4,Summer,0,407.35185371425956,30000,9,1,9,243,27
+27,Dar es Salaam,-6.7924,39.2083,Clear,28,High Tide,23000,3,Summer,0,0.0,53000,0,0,0,0,0
+28,Cochin,9.9312,76.2673,Cloudy,29,Low Tide,0,0,Winter,1,1075.626722880006,0,2,1,2,58,29
+28,"Mumbai, India",19.076,72.8777,Sunny,28,High Tide,10000,2,Winter,0,3245.8879871482504,10000,9,0,0,252,0
+28,Seychelles,-4.6796,55.4911,Clear,28,High Tide,17000,3,Winter,0,1757.6965518914544,27000,0,0,0,0,0
+28,Mombasa,-4.0435,39.6682,Cloudy,30,Low Tide,24000,4,Winter,0,0.0,51000,2,1,2,60,30
+29,Cochin,9.9312,76.2673,Clear,29,Low Tide,0,0,Autumn,1,3912.1838857692646,0,0,1,0,0,29
+29,"Port Louis, Mauritius",-20.1602,57.5012,Clear,28,High Tide,9000,3,Autumn,0,2567.332035747644,9000,0,0,0,0,0
+29,"Pemba, Tanzania",-4.9511,39.5944,Windy,27,Low Tide,17000,4,Autumn,0,141.1780907521025,26000,10,1,10,270,27
+29,Zanzibar,-6.1659,39.2026,Cloudy,30,Low Tide,25000,7,Autumn,0,0.0,51000,2,1,2,60,30
+30,Cochin,9.9312,76.2673,Cloudy,31,Low Tide,0,0,Spring,1,524.9528479560721,0,2,1,2,62,31
+30,"Colombo, Sri Lanka",6.9271,79.9584,Clear,28,High Tide,12000,8,Spring,0,6279.537265445008,12000,0,0,0,0,0
+30,"Maputo, Mozambique",-25.9701,32.5892,Clear,32,Low Tide,20000,7,Spring,0,457.69916419191566,32000,0,1,0,0,32
+30,Durban,-29.8587,31.0218,Clear,28,Low Tide,25000,6,Spring,0,0.0,57000,0,1,0,0,28
+31,Cochin,9.9312,76.2673,Sunny,27,Low Tide,0,0,Monsoon,1,122.00725465110972,0,9,1,9,243,27
+31,Kollam,8.8832,76.614,Partly Cloudy,28,Medium Tide,5000,3,Monsoon,0,74.44914691268643,5000,4,2,8,112,56
+31,Alappuzha,9.4981,76.3384,Clear,28,Low Tide,9000,5,Monsoon,1,1257.0884385622592,14000,0,1,0,0,28
+31,Vapi,20.3636,72.9195,Cloudy,30,High Tide,10000,4,Monsoon,0,142.60574680141772,24000,2,0,0,60,0
+31,Mumbai,19.076,72.8777,Clear,29,High Tide,13000,7,Monsoon,0,0.0,37000,0,0,0,0,0
+32,Cochin,9.9312,76.2673,Sunny,26,Low Tide,0,0,Autumn,1,122.00725465110972,0,9,1,9,234,26
+32,Quilon,8.8832,76.614,Cloudy,27,Low Tide,3000,3,Autumn,1,481.4141224040448,3000,2,1,2,54,27
+32,Mangalore,12.8694,74.8462,Clear,28,Medium Tide,6000,4,Autumn,1,227.18020676377714,9000,0,2,0,0,56
+32,Karwar,14.7992,74.1282,Clear,32,High Tide,9000,5,Autumn,1,55.33749809284042,18000,0,0,0,0,0
+32,Goa,15.2993,74.124,Clear,28,Low Tide,12000,3,Autumn,0,0.0,30000,0,1,0,0,28
+33,Cochin,9.9312,76.2673,Clear,28,Low Tide,0,0,Summer,1,524.9528479560721,0,0,1,0,0,28
+33,"Colombo, Sri Lanka",6.9271,79.9584,Cloudy,31,High Tide,10000,6,Summer,0,2719.006714816671,10000,2,0,0,62,0
+33,Singapore,1.3521,103.8198,Clear,28,Low Tide,20000,7,Summer,0,2576.1325323238816,30000,0,1,0,0,28
+33,Hong Kong,22.3193,114.1694,Clear,30,High Tide,30000,8,Summer,0,0.0,60000,0,0,0,0,0
+34,Cochin,9.9312,76.2673,Sunny,27,Low Tide,0,0,Spring,1,524.9528479560721,0,9,1,9,243,27
+34,"Colombo, Sri Lanka",6.9271,79.9584,Partly Cloudy,28,High Tide,10000,7,Spring,0,4042.355304451159,10000,4,0,0,112,0
+34,"Shenzhen, China",22.5431,114.0579,Clear,28,Medium Tide,19000,6,Spring,0,1211.3710504519256,29000,0,2,0,0,56
+34,Shanghai,31.2304,121.4737,Cloudy,30,High Tide,27000,4,Spring,0,0.0,56000,2,0,0,60,0
+35,Tuticorin Port,8.7642,78.1348,Clear,28,High Tide,0,0,Summer,1,77.82304171962032,0,0,0,0,0,0
+35,Gulf of Mannar,8.4834,78.7831,Cloudy,27,Low Tide,7000,5,Summer,0,96.2376089858365,7000,2,1,2,54,27
+35,Near Adams Bridge,9.0833,79.4167,Clear,26,Low Tide,15000,8,Summer,0,243.44905308114488,22000,0,1,0,0,26
+35,Colombo Port,6.9271,79.8612,Rainy,26,High Tide,20000,9,Summer,0,0.0,42000,6,0,0,156,0
+36,Tuticorin Port,8.7642,78.1348,Clear,28,High Tide,0,0,Monsoon,1,1728.0984952677584,0,0,0,0,0,0
+36,Great Nicobar Island,7.0,93.707,Rainy,26,Low Tide,5000,5,Monsoon,0,239.80666406732857,5000,6,1,6,156,26
+36,Andaman Sea,5.5667,95.3333,Cloudy,27,Medium Tide,10000,7,Monsoon,0,590.6699979773929,15000,2,2,4,54,54
+36,Malacca Strait,3.0,100.0,Clear,28,High Tide,15000,5,Monsoon,0,155.63531446658905,30000,0,0,0,0,0
+36,Port Klang,3.0033,101.4,Rainy,26,High Tide,21000,9,Monsoon,0,0.0,51000,6,0,0,156,0
+37,Tuticorin Port,8.7642,78.1348,Clear,27,High Tide,0,0,Winter,1,642.7636395129326,0,0,0,0,0,0
+37,Lakshadweep Sea,10.5667,72.5667,Cloudy,27,Low Tide,10000,7,Winter,0,256.2629381999054,10000,2,1,2,54,27
+37,Near Minicoy Island,8.3,73.05,Cloudy,27,Low Tide,14000,9,Winter,0,458.9416785937122,24000,2,1,2,54,27
+37,Male Port,4.1755,73.5093,Clear,29,High Tide,20000,11,Winter,0,0.0,44000,0,0,0,0,0
+38,Tuticorin Port,8.7642,78.1348,Clear,28,High Tide,0,0,Autumn,1,1857.2945998124071,0,0,0,0,0,0
+38,Andaman Sea,10.0,95.0,Cloudy,27,Low Tide,12000,10,Autumn,0,906.6078839090267,12000,2,1,2,54,27
+38,Strait of Malacca (Mid),3.5,100.0,Clear,28,Medium Tide,19000,7,Autumn,0,486.7001700466263,31000,0,2,0,0,56
+38,Singapore Port,1.3521,103.8198,Clear,30,High Tide,25000,8,Autumn,0,0.0,56000,0,0,0,0,0
+39,Tuticorin Port,8.7642,78.1348,Clear,28,Medium Tide,0,0,Monsoon,1,289.87603368176855,0,0,2,0,0,56
+39,Nagapattinam,10.7631,79.8436,Rainy,26,High Tide,3000,4,Monsoon,1,109.64490864334314,3000,6,0,0,156,0
+39,Cuddalore,11.75,79.75,Cloudy,27,Low Tide,6000,2,Monsoon,1,157.92777142409798,9000,2,1,2,54,27
+39,Chennai Port,13.0827,80.2707,Clear,29,High Tide,9000,4,Monsoon,1,0.0,18000,0,0,0,0,0
+40,Tuticorin Port,8.7642,78.1348,Clear,28,High Tide,0,0,Summer,1,1076.2964939673398,0,0,0,0,0,0
+40,Mid Bay of Bengal,13.0,87.0,Cloudy,27,Low Tide,9000,3,Summer,0,892.0591263089954,9000,2,1,2,54,27
+40,Andaman Sea,15.0,95.0,Cloudy,27,Low Tide,14000,9,Summer,0,242.92715450871725,23000,2,1,2,54,27
+40,Yangon Port,16.8661,96.1951,Clear,29,Medium Tide,18000,7,Summer,0,0.0,41000,0,2,0,0,58
+41,Chennai Port,13.0827,80.2707,Clear,29,High Tide,0,0,Winter,1,140.98914158601553,0,0,0,0,0,0
+41,Bay of Bengal,11.85,80.6,Clear,28,Low Tide,7000,6,Winter,1,236.0580099558573,7000,0,1,0,0,28
+41,Bay of Bengal,9.8,81.2,Cloudy,27,Medium Tide,12000,7,Winter,0,350.28045245090794,19000,2,2,4,54,54
+41,Colombo,6.9271,79.8612,Cloudy,27,High Tide,18000,8,Winter,0,0.0,37000,2,0,0,54,0
+42,Chennai Port,13.0827,80.2707,Partly Cloudy,28,High Tide,0,0,Autumn,1,342.25486843709234,0,4,0,0,112,0
+42,Bay of Bengal (WP1),10.5,82.0,Clear,28,Medium Tide,8000,8,Autumn,1,1166.2281529360048,8000,0,2,0,0,56
+42,Andaman Sea (WP2),7.0,92.0,Cloudy,30,Low Tide,16000,6,Autumn,0,1452.8468676198295,24000,2,1,2,60,30
+42,Singapore,1.3521,103.8198,Clear,28,Medium Tide,24000,10,Autumn,0,0.0,48000,0,2,0,0,56
+43,Chennai Port,13.0827,80.2707,Cloudy,27,High Tide,0,0,Monsoon,1,266.45055388935555,0,2,0,0,54,0
+43,Bay of Bengal,11.0,81.5,Clear,28,Medium Tide,10000,8,Monsoon,0,2182.351380578466,10000,0,2,0,0,56
+43,Malacca Strait,4.0,100.0,Rainy,26,Low Tide,15000,9,Monsoon,0,190.8544731985715,25000,6,1,6,156,26
+43,Port Klang,3.0,101.4,Clear,28,Low Tide,23000,7,Monsoon,0,0.0,48000,0,1,0,0,28
+44,Chennai Port,13.0827,80.2707,Clear,32,High Tide,0,0,Summer,1,618.3418078670345,0,0,0,0,0,0
+44,Bay of Bengal,10.0,85.0,Clear,28,Medium Tide,6000,5,Summer,0,1044.8802761006946,6000,0,2,0,0,56
+44,Andaman Sea,7.0,94.0,Clear,28,Medium Tide,12000,7,Summer,0,1114.0213918282518,18000,0,2,0,0,56
+44,Yangon Port,16.8409,96.1735,Cloudy,31,Low Tide,18000,8,Summer,0,0.0,36000,2,1,2,62,31
+45,Chennai Port,13.0827,80.2707,Clear,29,Low Tide,0,0,Autumn,1,220.31112716141774,0,0,1,0,0,29
+45,Bay of Bengal,11.5,81.5,Sunny,26,High Tide,5000,7,Autumn,0,1009.6231619643968,5000,9,0,0,234,0
+45,Laccadive Sea,8.0,73.0,Cloudy,31,High Tide,10000,6,Autumn,0,426.6641087705083,15000,2,0,0,62,0
+45,Male Port,4.1755,73.5082,Clear,28,High Tide,15000,8,Autumn,0,0.0,30000,0,0,0,0,0
+46,Chennai Port,13.0827,80.2707,Rainy,26,High Tide,0,0,Monsoon,1,618.3418078670345,0,6,0,0,156,0
+46,Bay of Bengal,10.0,85.0,Clear,28,Medium Tide,7000,6,Monsoon,0,2924.5877559728847,7000,0,2,0,0,56
+46,Sunda Strait,-6.0,106.0,Cloudy,27,Medium Tide,13000,8,Monsoon,0,96.4075322055536,20000,2,2,4,54,54
+46,Jakarta Port,-6.2088,106.8456,Cloudy,27,Low Tide,18000,9,Monsoon,0,0.0,38000,2,1,2,54,27
+47,Chennai Port,13.0827,80.2707,Cloudy,31,High Tide,0,0,Summer,1,1342.0632565077215,0,2,0,0,62,0
+47,Arabian Sea,15.0,68.0,Clear,29,High Tide,15000,10,Summer,0,1296.1572114499063,15000,0,0,0,0,0
+47,Gulf of Oman,23.0,59.0,Sunny,26,Medium Tide,30000,7,Summer,0,453.0859468654649,45000,9,2,18,234,52
+47,Dubai Port,25.2769,55.2962,Cloudy,31,High Tide,45000,8,Summer,0,0.0,90000,2,0,0,62,0
+48,Chennai Port,13.0827,80.2707,Partly Cloudy,28,Medium Tide,0,0,Autumn,0,618.3418078670345,0,4,2,8,112,56
+48,Bay of Bengal,10.0,85.0,Clear,28,Low Tide,7000,8,Autumn,1,573.8894546307399,7000,0,1,0,0,28
+48,Bay of Bengal,8.5,90.0,Cloudy,30,Low Tide,14000,5,Autumn,0,1545.198796613734,21000,2,1,2,60,30
+48,Chittagong Port,22.3569,91.7832,Clear,28,High Tide,20000,9,Autumn,0,0.0,41000,0,0,0,0,0
+49,Chennai Port,13.0827,80.2707,Clear,28,Medium Tide,0,0,Monsoon,0,618.3418078670345,0,0,2,0,0,56
+49,Bay of Bengal,10.0,85.0,Rainy,26,Low Tide,10000,7,Monsoon,0,776.513675713168,10000,6,1,6,156,26
+49,Bay of Bengal,9.0,92.0,Clear,28,Low Tide,15000,9,Monsoon,0,1237.3929612075208,25000,0,1,0,0,28
+49,Sittwe Port,20.1489,92.9001,Rainy,24,High Tide,25000,10,Monsoon,0,0.0,50000,6,0,0,144,0
+50,Elnores,1.4927,103.7414,Clear,27,Low Tide,0,0,Winter,1,10989.826155670818,0,0,1,0,0,27
+50,Near Hawaii,20.7984,-156.3319,Partly Cloudy,28,High Tide,20000,10,Winter,0,2830.3218002017015,20000,4,0,0,112,0
+50,Pacific Ocean,30.0,-130.0,Overcast,25,Low Tide,40000,20,Winter,0,1197.0557290390354,60000,3,1,3,75,25
+50,Los Angeles,34.0522,-118.2437,Clear,25,High Tide,70000,11,Winter,0,0.0,130000,0,0,0,0,0
+51,Elnores,1.4927,103.7414,Clear,27,Low Tide,0,0,Winter,1,2922.4857230558937,0,0,1,0,0,27
+51,Near Luzon Strait,21.5848,121.2394,Overcast,27,High Tide,20000,7,Winter,0,951.3096584083448,20000,3,0,0,81,0
+51,East China Sea,28.0,127.5,Showers,24,Low Tide,35000,9,Winter,0,1432.8055379548844,55000,7,1,7,168,24
+51,Tokyo Bay,35.6895,139.6917,Partly Cloudy,20,High Tide,50000,11,Winter,0,0.0,105000,4,0,0,80,0
+52,Elnores,1.4927,103.7414,Clear,27,High Tide,0,0,Winter,1,415.846392140144,0,0,0,0,0,0
+52,Malacca Strait,3.1016,100.3621,Partly Cloudy,27,Low Tide,12000,10,Winter,0,7745.538477910037,12000,4,1,4,108,27
+52,Suez Canal Entry,30.5852,32.2656,Overcast,27,High Tide,34000,12,Winter,0,1892.251544015019,46000,3,0,0,81,0
+52,Mediterranean Sea,34.0522,12.555,Clear,27,Low Tide,40000,11,Winter,0,2088.537128101004,86000,0,1,0,0,27
+52,Rotterdam,51.9225,4.4792,Cloudy,27,High Tide,50000,7,Winter,0,0.0,136000,2,0,0,54,0
+53,Elnores,1.4927,103.7414,Clear,27,High Tide,0,0,Winter,1,415.846392140144,0,0,0,0,0,0
+53,Malacca Strait,3.1016,100.3621,Partly Cloudy,26,Low Tide,11000,9,Winter,0,98.69698720736235,11000,4,1,4,104,26
+53,Near Selangor Coast,3.1,101.25,Cloudy,27,High Tide,23000,10,Winter,0,15.661201875552504,34000,2,0,0,54,0
+53,Port Klang,2.9937,101.3431,Clear,27,Low Tide,35000,12,Winter,0,0.0,69000,0,1,0,0,27
+54,Elnores,1.4927,103.7414,Clear,27,High Tide,0,0,Winter,1,415.846392140144,0,0,0,0,0,0
+54,Malacca Strait,3.1016,100.3621,Overcast,26,Low Tide,10000,8,Winter,0,468.2095423942243,10000,3,1,3,78,26
+54,Off Batam Island,1.0255,104.0304,Partly Cloudy,28,High Tide,21000,9,Winter,0,43.05321953241717,31000,4,0,0,112,0
+54,Singapore,1.3521,103.8198,Clear,29,Low Tide,32000,10,Winter,0,0.0,63000,0,1,0,0,29
+55,Vishakhapatnam,17.6868,83.2185,Clear,30,Low Tide,0,0,Winter,1,1085.6463863857532,0,0,1,0,0,30
+55,Near Sri Lanka,8.0883,81.135,Clear,29,High Tide,15000,11,Winter,0,2971.0643745645125,15000,0,0,0,0,0
+55,Gulf of Oman,23.4241,58.2822,Partly Cloudy,28,Low Tide,30000,12,Winter,0,365.88235411944095,45000,4,1,4,112,28
+55,Dubai,25.276,55.2962,Clear,27,High Tide,40000,9,Winter,0,0.0,85000,0,0,0,0,0
+56,Vishakhapatnam,17.6868,83.2185,Clear,30,Low Tide,0,0,Winter,1,227.39685354002688,0,0,1,0,0,30
+56,Off Andhra Coast,16.0,82.0,Partly Cloudy,29,High Tide,7000,8,Winter,1,847.9534885351842,7000,4,0,0,116,0
+56,Near Goa,15.2993,74.124,Clear,28,Low Tide,10000,9,Winter,0,438.4874817480149,17000,0,1,0,0,28
+56,Mumbai,19.076,72.8777,Cloudy,27,High Tide,15000,9,Winter,0,0.0,32000,2,0,0,54,0
+57,Vishakhapatnam,17.6868,83.2185,Clear,30,Low Tide,0,0,Winter,1,599.6903032681711,0,0,1,0,0,30
+57,Near Chennai Coast,13.0827,80.2707,Cloudy,29,High Tide,12000,9,Winter,0,528.6822182755659,12000,2,0,0,58,0
+57,Off Malabar Coast,11.2588,75.7804,Showers,28,Low Tide,15000,8,Winter,0,156.21591564139982,27000,7,1,7,196,28
+57,Cochin,9.9312,76.2673,Partly Cloudy,28,High Tide,18000,9,Winter,0,0.0,45000,4,0,0,112,0
+58,Vishakhapatnam,17.6868,83.2185,Partly Cloudy,30,Low Tide,0,0,Winter,1,570.6666074334746,0,4,1,4,120,30
+58,Bay of Bengal,13.0,81.0,Overcast,28,High Tide,7000,4,Winter,1,384.3084036120432,7000,3,0,0,84,0
+58,Near Jaffna,9.6615,80.0255,Partly Cloudy,27,Low Tide,14000,10,Winter,0,302.95908888099996,21000,4,1,4,108,27
+58,Colombo,6.9271,79.8612,Clear,28,High Tide,20000,8,Winter,0,0.0,41000,0,0,0,0,0
+59,Vishakhapatnam,17.6868,83.2185,Partly Cloudy,30,Low Tide,0,0,Winter,1,3626.6090472061082,0,4,1,4,120,30
+59,Near Cocos Islands,-12.1642,96.871,Clear,27,High Tide,12000,10,Winter,0,3625.329069278557,12000,0,0,0,0,0
+59,Timor Sea,-10.0,130.0,Overcast,26,Low Tide,20000,9,Winter,0,3417.0246890428807,32000,3,1,3,78,26
+59,Sydney,-33.8688,151.2093,Clear,24,High Tide,30000,9,Winter,0,0.0,62000,0,0,0,0,0
+60,Visakhapatnam Port,17.6868,83.2185,Sunny,30,Low Tide,0,0,Spring,1,170.29838328726652,0,9,1,9,270,30
+60,Off Coast of Tamil Nadu,16.5,82.2,Partly Cloudy,28,High Tide,3168,3,Spring,1,387.8611373268602,3168,4,0,0,112,0
+60,Southeast Bay of Bengal,13.0,82.0,Overcast,27,Low Tide,4224,2,Spring,1,711.4386547388788,7392,3,1,3,81,27
+60,"Near Colombo, Sri Lanka",6.9271,79.8612,Rain,26,High Tide,4752,1,Spring,0,0.0,12144,5,0,0,130,0
+60,Port of Colombo,6.9271,79.8612,Cloudy,27,Low Tide,5280,1,Spring,1,0.0,17424,2,1,2,54,27
+61,Paradip Port,20.25,86.65,Sunny,30,Low Tide,0,0,Spring,1,354.64477366195564,0,9,1,9,270,30
+61,Off Coast of Andhra Pradesh,18.1,84.15,Cloudy,28,High Tide,3168,3,Spring,1,534.9916891927163,3168,2,0,0,56,0
+61,Southeast Bay of Bengal,14.0,81.5,Overcast,27,Low Tide,4224,4,Spring,1,1608.308716066354,7392,3,1,3,81,27
+61,"Near Yangon, Myanmar",16.8661,96.1951,Partly Cloudy,29,High Tide,4752,2,Spring,0,0.0,12144,4,0,0,116,0
+61,"Port of Yangon, Myanmar",16.8661,96.1951,Cloudy,28,Low Tide,5280,2,Spring,1,0.0,17424,2,1,2,56,28
+62,Kolkata Port,22.57,88.36,Clear,29,High Tide,0,0,Summer,1,346.3500480146849,0,0,0,0,0,0
+62,Northern Bay of Bengal,19.5,89.0,Partly Cloudy,27,Low Tide,3168,4,Summer,1,1484.7807900538921,3168,4,1,4,108,27
+62,Off Coast of Thailand,12.0,100.5,Rain,26,High Tide,4224,5,Summer,1,410.6407115200116,7392,5,0,0,130,0
+62,Gulf of Thailand,10.2833,103.8333,Overcast,28,Low Tide,4752,4,Summer,0,445.1782672199305,12144,3,1,3,84,28
+62,"Laem Chabang Port, Thailand",13.0845,100.9013,Clear,30,High Tide,5280,5,Summer,1,0.0,17424,0,0,0,0,0
+63,Haldia Port,22.06,88.08,Cloudy,28,Low Tide,0,0,Winter,1,208.01879522859545,0,2,1,2,56,28
+63,Off Coast of Odisha,20.35,87.25,Partly Cloudy,29,High Tide,3168,2,Winter,1,1257.0570339028493,3168,4,0,0,116,0
+63,Near Andaman Sea,10.2833,92.6833,Sunny,30,Low Tide,4224,3,Winter,1,1298.0656951582457,7392,9,1,9,270,30
+63,Malacca Strait,2.0,101.0,Overcast,28,High Tide,4752,4,Winter,0,147.30123212829585,12144,3,0,0,84,0
+63,"Port Klang, Malaysia",3.139,101.6869,Clear,27,Low Tide,5280,1,Winter,1,0.0,17424,0,1,0,0,27
